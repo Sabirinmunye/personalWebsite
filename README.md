@@ -5,7 +5,7 @@
 * * *
 
 
-
+https://static1.squarespace.com/static/51c71bd4e4b01f34284e6112/t/56359bc0e4b0ef5e7b3fc3cc/1446353856077/o-BUSINESS-TECHNOLOGY-facebook.jpg"
 
 ### About Me
 
@@ -16,7 +16,7 @@ Welcome, my name is Sabirin. I am a Trainee consultant from London who loves to 
 
 
 
-src="https://www.youtube.com/embed/QaoDXYYtgK0" 
+"https://www.youtube.com/embed/QaoDXYYtgK0" 
 
 
 ## Artificial Intelligence
