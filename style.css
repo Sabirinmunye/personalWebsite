@@ -87,6 +87,48 @@ h3	{
 
 }
 
-li {
-	text-align: center;
+footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
 }
+
+footer div.container-fluid {
+
+
+}
+
+.row {
+	margin-bottom: 50px;
+}
+
+
+#AI {
+	font-size: 50px;
+	color: black;
+	font-family: "times-new-roman"
+}
+
+#BD {
+	font-size: 50px;
+	color: black;
+	font-family: "times-new-roman"
+	
+}
+
+
+.BDpara {
+		font-size: 25px;
+		color: black;
+		font-family: "times-new-roman"
+}
+
+.AIpara {
+		font-size: 25px;
+		color: black;
+		font-family: "times-new-roman"
+}
+
+
+
