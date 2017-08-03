@@ -1,20 +1,18 @@
-body{
-	background-color:  black;
-}
+
+
 .jumbotron {
 	color: navy;
 	text-align: center;
 	font-weight: bold;
 	font-family: "comic-sans";
-	margin-bottom: -60px;
+	
 	font-size: 200px;
-
-
+	background-image: url(https://previews.123rf.com/images/narutotootee/narutotootee1206/narutotootee120600122/14204364-pink-technology-abstract-background--Stock-Photo.jpg);
 
 }
 
 
-.jumbotron {
+.jumbotron p {
 	font-size: 60px;
 	color: navy;
 	font-weight: bold;
@@ -26,16 +24,18 @@ body{
 	color: black;
 	font-weight: bold;
 	text-decoration-line: underline;
+	fo
 
 }
 .test{
 	margin: 0 20px;
 	width: 100%;
 	/*border: 2px solid black;*/
+	margin-bottom: 50px;
 }
 #main-p{
 	font-size: 30px;
-	color: white;
+	color: black;
 	
 	font-family: "times-new-roman"
 
@@ -52,8 +52,9 @@ h3	{
 	color: black;
 	font-weight: bold;
 	font-size: 50px;
-	background-color: pink;
+	background-color: #C1DBE3;
 	text-align: center;
+	font-style: italic; 
 
 
 }
@@ -66,24 +67,25 @@ h3	{
 
 .container {
 	display: inline-block;
-	margin-bottom: 40px;
+	
 
 
 }
 
-.navbar  {
+.navbar navbar-default {
 	background-color: 825574; 
 
-#backroundpic{
-	text-align: center;
-	height: 30px:;
 }
 
 .container-video {
-	width: 100%;
+	
 	text-align: center;
 	display: inline-block;
 	border: 2px solid black;
 	background-color:825574;
 
+}
+
+footer {
+	text-align: center;
 }
